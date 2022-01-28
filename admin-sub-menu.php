@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Admin Sub Menu
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin URI:        https://example.com/
  * Description:       Handle the basics with this plugin.
  * Version:           1.0.0
  * Author:            Muhammad Nabeel Nisar
